@@ -1,5 +1,5 @@
 module.exports = {
-  MongoURI: "mongodb://<mongo user name>:<mongodb user password>@ds159024.mlab.com:59024/loginsystem"
+  MongoURI: "paste you mongodb connection string here"
 };
 
 
